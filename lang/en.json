@@ -1,0 +1,74 @@
+{
+  "approve-button": {
+    "defaultMessage": "Approve",
+    "description": "Approve button"
+  },
+  "balance-amount": {
+    "defaultMessage": "${amount}",
+    "description": "Balance card amount"
+  },
+  "balance-text": {
+    "defaultMessage": "Balance:",
+    "description": "Balance card text"
+  },
+  "bidding-input-commit-text": {
+    "defaultMessage": "Commit:",
+    "description": "Commit text displayed in bidding card"
+  },
+  "deposit-stage-text": {
+    "defaultMessage": "Trading",
+    "description": "Trading"
+  },
+  "lock-stage-text": {
+    "defaultMessage": "Trading is over",
+    "description": "Trading is over"
+  },
+  "next-option-starts": {
+    "defaultMessage": "Next round starts in:",
+    "description": "Next round starts in:"
+  },
+  "not-started-text": {
+    "defaultMessage": "Waiting to start",
+    "description": "Waiting to start"
+  },
+  "option-details-option-id": {
+    "defaultMessage": "Option: {id}",
+    "description": "Option details option id"
+  },
+  "option-disabled-timer": {
+    "defaultMessage": "00:00",
+    "description": "option-disabled-timer"
+  },
+  "option-ends-in-text": {
+    "defaultMessage": "Ends in: {time}",
+    "description": "Ends in"
+  },
+  "option-title-down-payout": {
+    "defaultMessage": "Down payout",
+    "description": "Option info title 'Down payout'"
+  },
+  "option-title-up-payout": {
+    "defaultMessage": "Up payout",
+    "description": "Option info title 'Up payout'"
+  },
+  "starts-in-text": {
+    "defaultMessage": "Trading starts in: {time}",
+    "description": "Round starts in"
+  },
+  "tournaments-table-header": {
+    "defaultMessage": "Leaderboard",
+    "description": ""
+  },
+  "tournaments-user-info-table-header": {
+    "defaultMessage": "User statistics",
+    "description": ""
+  },
+  "trading-ends-in-text": {
+    "defaultMessage": "Trading ends in: {time}",
+    "description": "Trading ends in"
+  },
+  "your-trading-history": {
+    "defaultMessage": "Your trading history",
+    "description": "Your trading history"
+  }
+}
